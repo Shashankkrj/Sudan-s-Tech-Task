@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+html{
+    font-size:62.5%;
+}
 body{
     margin: 0px;
     font-family: 'Pacifico', cursive;
