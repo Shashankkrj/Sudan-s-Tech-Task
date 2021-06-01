@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-html{
-    font-size:62.5;
-}
 body{
     margin: 0px;
     font-family: 'Pacifico', cursive;
@@ -11,8 +8,6 @@ body{
 
 :root {
     --primary-color: #2563EB;
-    --off-white: #f3f4f6;
-    --dark-grey: #6b7280;
 }
 
 .img0{
