@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+html{
+    zoom:67%;
+}
+
 body{
     margin: 0px;
     font-family: 'Pacifico', cursive;
